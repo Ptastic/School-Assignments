@@ -1,4 +1,5 @@
 
+A complete SQL project featuring tables, stored procedures, triggers, views, and business logic
 
 Project Summary: VaultofPaul Bank Database
 
