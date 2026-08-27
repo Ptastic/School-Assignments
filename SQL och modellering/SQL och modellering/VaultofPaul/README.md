@@ -1,7 +1,7 @@
 
-#A complete SQL project featuring tables, stored procedures, triggers, views, and business logic
+*A complete SQL project featuring tables, stored procedures, triggers, views, and business logic
 
-#Project Summary: VaultofPaul Bank Database
+*Project Summary: VaultofPaul Bank Database
 
 
 This project involved designing and building a realistic banking database in SQL Server. The final system includes customers, different types of accounts (Savings, Checking, Credit, Loan), cards, transactions, loan payments, and audit logging.
