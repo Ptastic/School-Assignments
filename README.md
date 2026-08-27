@@ -1,2 +1,2 @@
 # School-Assignments
-School assignments from BI Analyst education – SQL, Power BI &amp; Python
+School assignments from BI Analyst education – SQL, Power BI &amp; Python And more
