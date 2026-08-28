@@ -1,0 +1,4 @@
+Best selling game consoles.csv(-2020) = https://www.kaggle.com/datasets/tayyarhussain/best-selling-game-consoles-of-all-time
+Games_score.csv (games -2023) = https://www.kaggle.com/datasets/patkle/metacritic-scores-for-games-movies-tv-and-music
+Game sales (- 2016) = https://www.kaggle.com/datasets/gregorut/videogamesales
+
